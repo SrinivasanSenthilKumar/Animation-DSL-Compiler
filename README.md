@@ -47,5 +47,4 @@ Generated files:
 
 ## Authors
 
-Your Name
-College Name
+Srinivasan S
